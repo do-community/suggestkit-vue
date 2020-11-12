@@ -6,7 +6,7 @@
 </template>
 
 <script>
-    import suggestKit from "@jakemakesstuff/suggestkit";
+    import suggestKit from "suggestkit";
 
     export default {
         name: "SuggestKit",
