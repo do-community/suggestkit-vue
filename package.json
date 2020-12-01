@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/do-community/suggestkit-vue#readme",
   "dependencies": {
-    "suggestkit": "git+https://github.com/jakemakesstuff/suggestkit.git"
+    "suggestkit": "git+https://github.com/do-community/suggestkit.git"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.2.0",
